@@ -5,7 +5,7 @@ it's an online shop app which includes
 
 -Products Overview
 
-- cart and orders
+-cart and orders
 
 -Manage products (add , delete and edit products )
 
